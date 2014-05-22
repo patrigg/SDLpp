@@ -1,6 +1,6 @@
-#include "stdafx.h"
 #include "Texture.h"
 #include "Renderer.h"
+#include <SDL.h>
 
 namespace sdl
 {

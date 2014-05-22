@@ -1,5 +1,5 @@
-#include "stdafx.h"
 #include "Window.h"
+#include <SDL.h>
 
 namespace sdl
 {

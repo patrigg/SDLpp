@@ -1,6 +1,6 @@
-#include "stdafx.h"
 #include "GLContext.h"
 #include "Window.h"
+#include <SDL.h>
 
 namespace sdl
 {

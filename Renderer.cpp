@@ -1,7 +1,7 @@
-#include "stdafx.h"
 #include "Renderer.h"
 #include "Window.h"
 #include "Texture.h"
+#include <SDL.h>
 
 namespace sdl
 {
